@@ -1,0 +1,181 @@
+---
+title: "Ouvrir des données publiques, c'est politique"
+author: Joël Gombin
+output:
+  xaringan::moon_reader:
+    css: [default, assets/xaringan.css]
+    seal: FALSE
+    chakra: libs/remark-latest.min.js
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+class: center, middle
+
+# Ouvrir les données, c'est politique
+
+</BR>
+</BR>
+</BR>
+
+### Joël Gombin
+<img src="./img/Logo_DATACTIVIST_TW.png" height="120px" />
+
+<img src="./kit-orateurs/logo/logo-horizontal-couleur.png" height="70px" />
+
+---
+class: center, inverse, middle
+
+# D'un open data de l'offre<BR>à un open data de la demande
+
+---
+## Mais c'est quoi l'open data ?
+
+.center[![](./img/opendefinition.png)]
+
+---
+## L'open data de l'offre
+
+---
+background-image: url(./img/opendataoffre.png)
+background-position: 50% 50%
+background-size: cover
+
+???
+
+Inconvénients : 
+- données décevantes 
+- en qualité (format, granularité, fraîcheur...)
+- en quantité
+- en impact politique
+- etc.
+
+---
+## Vers l'open data à la demande 
+
+![](./img/soumission.png)
+
+---
+## Vers l'open data à la demande 
+
+![](./img/soumission2.png)
+
+---
+## La loi Lemaire 
+
+.center[.reduite[![](./img/lemaire.jpg)]]
+
+---
+class: center, middle
+
+## L'important, ce sont les USAGES !!
+
+
+
+---
+class: center, inverse, middle
+
+# Ouvrir ses données
+
+### Pourquoi vos clients vont s'y mettre
+
+### Comment vous pouvez les aider
+
+---
+## Quand les entreprises ouvrent leurs données
+
+.center[![](./img/sncf.png)]
+
+---
+## Quand les entreprises ouvrent leurs données
+
+.center[![](./img/uber.png)]
+
+???
+
+Obtenue par 538 de l'autorité de régulation des taxis de NYC par une demande FOIL
+
+---
+## Quand les entreprises ouvrent leurs données
+
+.center[![](./img/goldencorp.png)]
+
+---
+## Quand les entreprises ouvrent leurs données
+
+.center[![](./img/goldencorp2.png)]
+
+---
+## Quand les entreprises ouvrent leurs données
+
+.center[![](./img/goldencorp3.jpg)]
+
+---
+## L'open data comme communauté
+
+- dans une optique de comm' corporate
+- constituer une communauté autour des données
+- bâtir de la confiance (ex : rapports RSE)
+
+---
+class: center, middle, inverse
+
+# Demain, le web des données
+
+### quelles évolutions ?
+### quels enjeux ?
+### quels métiers ?
+
+---
+## Le web des données / linked data
+
+.center[![](./img/webofdata.jpg)]
+
+???
+
+Tim Berners-Lee / W3C
+
+---
+## De l'open data au linked data
+
+.center[![](./img/5star.jpg)]
+
+---
+## Quels enjeux ?
+
+- la data est partout
+- elle est au cœur du/des webs
+- tous les métiers vont devoir s'y frotter
+
+---
+## Quels métiers ?
+
+Ce dont on a besoin : 
+
+- des standards 
+- des standards communautaires
+- des standards communautaires ouverts
+- de l'interopérabilité
+
+---
+## Quels métiers ?
+
+.center[Rings a bell?]
+
+???
+
+W3C, HTML, CSS etc. etc. 
+
+---
+class: center, middle, inverse
+
+# Pour conclure :<BR>échangeons, apprenons !
+
