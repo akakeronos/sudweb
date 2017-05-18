@@ -1,5 +1,5 @@
 ---
-title: "Ouvrir des données publiques, c'est politique"
+title: "Open data : pourquoi vous devriez vous y intéresser"
 author: Joël Gombin
 output:
   xaringan::moon_reader:
@@ -18,18 +18,28 @@ options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(cache = TRUE)
 ```
 
-class: center, middle
+class: center, middle, inverse
+background-image: url(./img/fog.jpg)
+background-position: 50% 50%
 
-# Ouvrir les données, c'est politique
+
+# Open data :</BR>pourquoi vous devriezvous y intéresser
 
 </BR>
 </BR>
 </BR>
 
 ### Joël Gombin
-<img src="./img/Logo_DATACTIVIST_TW.png" height="120px" />
 
-<img src="./kit-orateurs/logo/logo-horizontal-couleur.png" height="70px" />
+</BR>
+</BR>
+</BR>
+</BR>
+</BR>
+
+.pull-left[<img src="./kit-orateurs/logo/logo-horizontal-couleur.png" height="50px" />].pull-right[<img src="./img/datactivist.png" height="40px" width="auto" />]
+
+
 
 ---
 class: center, inverse, middle
@@ -37,11 +47,14 @@ class: center, inverse, middle
 # D'un open data de l'offre<BR>à un open data de la demande
 
 ---
+class: center, middle
 ## Mais c'est quoi l'open data ?
 
+???
 .center[![](./img/opendefinition.png)]
 
 ---
+class: center, middle
 ## L'open data de l'offre
 
 ---
@@ -59,26 +72,48 @@ Inconvénients :
 - etc.
 
 ---
-## Vers l'open data à la demande 
+background-image: url(./img/ods.png)
+background-position: 50% 50%
+background-size: cover
 
-![](./img/soumission.png)
+
+???
+
+Il y a aussi des portails plus orientés usagers
 
 ---
+class: center, middle
 ## Vers l'open data à la demande 
 
-![](./img/soumission2.png)
+---
+class: middle
+.middle[![](./img/soumission.png)]
+
+???
+
+Site open data de la région Grand Est
+
+---
+class: middle
+.middle[![](./img/soumission2.png)]
 
 ---
 ## La loi Lemaire 
 
 .center[.reduite[![](./img/lemaire.jpg)]]
 
+- open data par défaut
+- standards ouverts
+- mécanisme CADA -> Open Data
+
 ---
 class: center, middle
 
-## L'important, ce sont les USAGES !!
+## L'important, ce sont les .red[USAGES] !!
 
+???
 
+~ 6 mn
 
 ---
 class: center, inverse, middle
@@ -94,6 +129,17 @@ class: center, inverse, middle
 
 .center[![](./img/sncf.png)]
 
+???
+
+usages : citymapper/google maps/trainline etc
+mais aussi : afficheur LCD
+
+---
+## Quand les entreprises ouvrent leurs données
+
+.center[![](./img/lcd.png)]
+
+
 ---
 ## Quand les entreprises ouvrent leurs données
 
@@ -106,17 +152,18 @@ Obtenue par 538 de l'autorité de régulation des taxis de NYC par une demande F
 ---
 ## Quand les entreprises ouvrent leurs données
 
-.center[![](./img/goldencorp.png)]
-
----
-## Quand les entreprises ouvrent leurs données
-
-.center[![](./img/goldencorp2.png)]
+.center[![](./img/uber538.png)]
 
 ---
 ## Quand les entreprises ouvrent leurs données
 
 .center[![](./img/goldencorp3.jpg)]
+
+???
+
+.center[![](./img/goldencorp.png)]
+
+.center[![](./img/goldencorp2.png)]
 
 ---
 ## L'open data comme communauté
@@ -135,18 +182,13 @@ class: center, middle, inverse
 ### quels métiers ?
 
 ---
-## Le web des données / linked data
+## De l'open data au linked data
 
-.center[![](./img/webofdata.jpg)]
+.center[![](./img/5star.jpg)]
 
 ???
 
 Tim Berners-Lee / W3C
-
----
-## De l'open data au linked data
-
-.center[![](./img/5star.jpg)]
 
 ---
 ## Quels enjeux ?
@@ -164,6 +206,7 @@ Ce dont on a besoin :
 - des standards communautaires
 - des standards communautaires ouverts
 - de l'interopérabilité
+- des API
 
 ---
 ## Quels métiers ?
@@ -173,6 +216,8 @@ Ce dont on a besoin :
 ???
 
 W3C, HTML, CSS etc. etc. 
+
+mais attention : AR entre standards et usages, grâce au business
 
 ---
 class: center, middle, inverse

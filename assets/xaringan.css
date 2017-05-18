@@ -29,6 +29,9 @@ a, a > code {
   color: #f3f3f3;
   line-height: 1.0em;
 }
+.red {
+  color: #ff3300;
+}
 /* Two-column layout */
 .left-column {
   color: #777;
