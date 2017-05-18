@@ -3,8 +3,9 @@ title: "Open data : pourquoi vous devriez vous y intéresser"
 author: Joël Gombin
 output:
   xaringan::moon_reader:
+    self_contained: true
     css: [default, assets/xaringan.css]
-    seal: FALSE
+    seal: false
     chakra: libs/remark-latest.min.js
     lib_dir: libs
     nature:
