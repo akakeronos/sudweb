@@ -41,6 +41,10 @@ background-position: 50% 50%
 .pull-left[<img src="./kit-orateurs/logo/logo-horizontal-couleur.png" height="50px" />].pull-right[<img src="./img/datactivist.png" height="40px" width="auto" />]
 
 
+---
+class: center, inverse, middle
+
+# [datactivi.st/sudweb](http://www.datactivi.st/sudweb)
 
 ---
 class: center, inverse, middle
